@@ -1,0 +1,11 @@
+Sure, here are the top 10 tags related to Azure Form Recognizer:
+Azure Form Recognizer
+Document Analysis
+Optical Character Recognition (OCR)
+Data Extraction
+Machine Learning
+Invoice Processing
+Form Processing
+Intelligent Automation
+Azure Cognitive Services
+Information Extraction
